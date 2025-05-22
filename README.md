@@ -5,8 +5,6 @@ Here, bugs are boiled, syntax errors are sautéed, features are baked, code expe
 syntax errors are gently sautéed into tasty code experiments. 
 Is the code perfect? Nope. But it did pass the spud check. 🧪
 
-Last updated: May 2025 — still peeling back layers of logic, simmering fresh ideas, and mashing up concepts as needed.
-
 My Github is is still in progress— come back hungry for more updates!
 
 Last updated: May 2025 — still peeling back layers of logic, simmering fresh ideas, and mashing concepts as needed.
